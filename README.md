@@ -1,4 +1,5 @@
-Restaurant Billing System
+<H1>Restaurant Billing System</H1>
+<br>
 Welcome to the Restaurant Billing System, a simple yet efficient C-based application designed to streamline the billing process for restaurants. This system handles orders, calculates totals, and generates bills, making it a valuable tool for restaurant management.
 
 📜 Author
