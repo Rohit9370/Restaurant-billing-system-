@@ -18,7 +18,7 @@ Clone the Repository
 
 sh
 Copy code
-git clone https://github.com/Rohit9370/restaurant-billing-system.git
+git clone https://github.com/Rohit9370/Restaurant-billing-system-.git
 Navigate to the Project Directory
 
 sh
