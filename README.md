@@ -18,7 +18,7 @@ Clone the Repository
 
 sh
 Copy code
-git clone https://github.com/rohitmathe/restaurant-billing-system.git
+git clone https://github.com/Rohit9370/restaurant-billing-system.git
 Navigate to the Project Directory
 
 sh
@@ -55,4 +55,5 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 For any questions or feedback, you can reach out to the author:
 
 Email: rohitpro678@gmail.com
+<br>
 GitHub: Rohit9370
